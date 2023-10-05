@@ -1,0 +1,3 @@
+go 1.21.1
+
+use "./Chapter 01 - Getting Started/quote"
